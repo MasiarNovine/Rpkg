@@ -1,6 +1,6 @@
 # Rpkg ![](../../actions/workflows/r.yml/badge.svg)
 
-A generic R package template.
+A generic R package template. 
 
 Just use the green "Use this template" link on top to create your own R-package in Github.
 
